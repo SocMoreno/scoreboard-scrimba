@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'CursedTimerULiL'; 
+    src: url('fonts/CursedTimerULiL.ttf');
+}
+body {
+    font-family: 'CursedTimerULiL';
+    margin: 100px;
+    background-color: #E5E5E5;
+}
+div{
+    text-align: center;
+    border-radius: 10px;
+}
+.score-btn{
+    width: 60px;
+    height: 60px;
+    font-family: 'CursedTimerULiL';
+    padding: 15px;
+    margin-bottom: 50px;
+    color: #EEF1EF;
+    background-color: #1B244A;
+    font-size: 25px;
+    border-color: #DDD8C4;
+    border-radius: 5px;
+}
+.container {
+    color: #FFF;
+    display: flex;
+    justify-content: space-around;
+    background-color: #1B244A;
+    padding: 70px;
+}
+.num-con{
+    width: 90px;
+}
+.ng-btn{
+    width: 150px;
+    height: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFF;
+    background-color: #1B244A;
+    border-radius: 5px;
+    border-color: #EEF1EF;
+    margin-top: 440px;
+}
+h2{
+    color:#F94F6D ;
+    background-color: black;
+    text-align: center;
+    padding: 25px 70px;
+    font-size: 80px;
+    border-radius: 7px;
+}
+
+h1{
+    padding: 5px;
+    align-items: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:800;
+}
